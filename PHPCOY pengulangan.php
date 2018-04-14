@@ -17,5 +17,4 @@ angka kedua : <input type="Text" name="angka2">
             echo "$angka1 +$i = $hasil <br/>";
             }
 }
-
  ?> 
